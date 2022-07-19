@@ -1,5 +1,5 @@
 import axios from "axios";
-const rootUrl = "https://jeel-zenportal.herokuapp.com/v1/";
+const rootUrl = "https://krishna-zenportal.herokuapp.com/v1/";
 const loginUrl = rootUrl + "user/login";
 const userProfileUrl = rootUrl + "user";
 const logoutUrl = rootUrl + "user/logout";

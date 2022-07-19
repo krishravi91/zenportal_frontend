@@ -126,7 +126,7 @@ export const AddTicketForm = () => {
         </Form.Group>
 
         <Button type="submit" variant="dark" block>
-          Open Ticket
+          Add Ticket
         </Button>
       </Form>
     </Jumbotron>

@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const rootUrl = "https://ephemeral-pothos-43bb87.netlify.app/v1/";
+const rootUrl = "https://krishna-zenportal.herokuapp.com/v1/";
 const otpReqUrl = rootUrl + "user/reset-password";
 const updatePassUrl = rootUrl + "user/reset-password";
 
